@@ -32,18 +32,12 @@
 
 
 ### 📌 Projects
-- 🧠 Big Data Analysis (PySpark / Dask)
-   Perform large-scale data processing and analysis to demonstrate scalability and performance.
-- 🤖 Machine Learning Prediction Model
-  Build and train models to predict outcomes using real-world datasets.
-- 📊 Interactive Data Dashboard
-  Create dashboards using Tableau / Power BI / Dash for data visualization.
-- 💬 Sentiment Analysis (NLP Project)
-   Analyze textual data using Natural Language Processing techniques.
-- ⏰ Digital Clock (Web Project)
-   A real-time clock using HTML, CSS, and JavaScript.
-- ✊✋✌️ Rock-Paper-Scissors Game
-   Interactive browser game with logic and UI.
+- 🧠 Big Data Analysis (PySpark / Dask): Perform large-scale data processing and analysis to demonstrate scalability and    performance.
+- 🤖 Machine Learning Prediction Model: Build and train models to predict outcomes using real-world datasets.
+- 📊 Interactive Data Dashboard: Create dashboards using Tableau / Power BI / Dash for data visualization.
+- 💬 Sentiment Analysis (NLP Project): Analyze textual data using Natural Language Processing techniques.
+- ⏰ Digital Clock (Web Project): A real-time clock using HTML, CSS, and JavaScript.
+- ✊✋✌️ Rock-Paper-Scissors Game: Interactive browser game with logic and UI.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sukladey&show_icons=true&theme=tokyonight)
 
