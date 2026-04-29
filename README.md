@@ -8,6 +8,9 @@
 - ⚡ Love building real-world projects
 
 ### 🛠️ Skills
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 #### 💻 Languages
 <p>
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C" />
@@ -15,18 +18,11 @@
  
 </p>
 
-#### 🌐 Frontend Development
-<p>
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-</p>
-
 #### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL" />
-   <img src="https://img.shields.io/badge/GIT-ORANGE?style=for-the-badge&logo=GIT"/>
-   <img src="https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=GITHUB"/>
+   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=GIT"/>
+   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GITHUB"/>
 </p>
 
 #### 📊 Data Analytics & Visualization
@@ -36,17 +32,17 @@
 
 
 ### 📌 Projects
-1.🧠 Big Data Analysis (PySpark / Dask)
+- 🧠 Big Data Analysis (PySpark / Dask)
    Perform large-scale data processing and analysis to demonstrate scalability and performance.
-2.🤖 Machine Learning Prediction Model
+- 🤖 Machine Learning Prediction Model
   Build and train models to predict outcomes using real-world datasets.
-3.📊 Interactive Data Dashboard
+- 📊 Interactive Data Dashboard
   Create dashboards using Tableau / Power BI / Dash for data visualization.
-4.💬 Sentiment Analysis (NLP Project)
+- 💬 Sentiment Analysis (NLP Project)
    Analyze textual data using Natural Language Processing techniques.
-5.⏰ Digital Clock (Web Project)
+- ⏰ Digital Clock (Web Project)
    A real-time clock using HTML, CSS, and JavaScript.
-6.✊✋✌️ Rock-Paper-Scissors Game
+- ✊✋✌️ Rock-Paper-Scissors Game
    Interactive browser game with logic and UI.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sukladey&show_icons=true&theme=tokyonight)
