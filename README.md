@@ -19,7 +19,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
@@ -62,10 +61,8 @@
 #### 🧠 Generative AI & LLM
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM%20Applications-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embeddings-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -97,7 +94,6 @@
 * Machine Learning
 * Natural Language Processing
 * Generative AI
-* Retrieval-Augmented Generation (RAG)
 * LLM Applications
 * Full-Stack Development
 
@@ -132,11 +128,37 @@
 
 ---
 
+📊 GitHub Statistics
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukladey&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukladey&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+
+---
+
 ### 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sukladey\&show_icons=true\&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukladey\&theme=tokyonight)
+
+---
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/sukladey/sukladey/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+
+---
+
+🏆 GitHub Trophies
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sukladey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </p>
+---
+📈 Contribution Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukladey&theme=tokyo-night&hide_border=true" /> </p>
+---
+
+💻 Coding Profiles
+
+<p align="center"> <a href="https://github.com/sukladey"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/sukladey"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
