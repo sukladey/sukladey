@@ -213,29 +213,17 @@ Interactive browser-based game built using:
 
 ---
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sukladey/sukladey/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/sukladey/sukladey/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
 
----
+🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sukladey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sukladey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+📈 Contribution Graph
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukladey&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukladey&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" /> </p>
 
 ## 💻 Coding Profiles
 
